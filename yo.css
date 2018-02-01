@@ -1,0 +1,171 @@
+.MargenIzquierdo {
+	width: 25%;
+    height: 1000px;
+	background-color: rgba(255, 218, 71, 1);
+	background-position: 0% 0%;
+	background-size: cover;
+}
+
+.Nombre {
+	background-color: transparent;
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	padding-top: 5%;
+}
+
+img#Perfil {
+	background-color: transparent;
+	border-radius: 2%;
+    display: block;
+    margin: auto;
+    width: 80%;
+}
+
+.DatosPersonales {
+	background-color: transparent;
+	text-align: justify;
+	display: block;
+    margin: auto;
+    width: 80%;
+	font-weight: bold;
+	font-size: 0.9em;
+	padding: 5%;
+}
+
+.DatoPersonal {
+	background-color: transparent;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	display: inline;
+}
+
+.AcercaDeMi {
+	background-color: transparent;
+	text-align: justify;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	position: relative;
+	left: 6%;
+	margin-right: 15%;
+}
+
+.Educacion {
+	background-color: transparent;
+	text-align: justify;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	position: relative;
+	left: 6%;
+}
+
+.PeriodoDeEducacion {
+	background-color: transparent;
+	text-align: justify;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.Titulo {
+	background-color: transparent;
+	text-align: justify;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.LenguajesDeProgramacion {
+	background-color: transparent;
+	text-align: center;
+	display: block;
+    margin: auto;
+    width: 80%;
+}
+
+.Lenguaje {
+	background-color: transparent;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: rgba(71, 10, 18, 1); 
+	font-weight: bold;
+}
+
+.Subtitulo {
+	
+}
+
+.ExperienciasEducativas {
+	background-color: transparent;
+	text-align: justify;
+	position: relative;
+	left: 6%;
+}
+
+.ExperienciaEducativa {
+	background-color: transparent;
+	text-align: justify;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.ExperienciasLaborales {
+	background-color: transparent;
+	text-align: justify;
+	position: relative;
+	left: 6%;
+}
+
+.PeriodoLaboral {
+	background-color: transparent;
+	font-weight: bold;
+	text-align: justify;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.Empresa {
+	background-color: transparent;
+	font-style: italic;
+	text-align: justify;
+}
+
+.ExperienciaLaboral {
+	background-color: transparent;
+	text-align: justify;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.Subtitulo {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	display: inline;
+}
+
+#Sub1 {
+	margin-top: 7%;
+	position: relative;
+	left: 3%;	
+}
+
+#Sub2 {
+	position: relative;
+	left: 3%;	
+}
+
+#Sub3 {
+	position: relative;
+	left: 3%;	
+}
+
+#Sub4 {
+	position: relative;
+	left: 3%;	
+}
+
+.MargenDerecho {
+	position: absolute;
+	left: 25.1%;
+	top: 5%;
+	width: 65%;
+    height: 1000px;
+	background-color: rgba(252, 251, 223, 1);
+	background-position: 25% 0%;
+	background-size: cover;
+}
+
+ul {
+	list-style-type: dot;
+	list-style-position: inside;
+}
