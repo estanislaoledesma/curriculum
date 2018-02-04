@@ -6,6 +6,11 @@
 	background-size: cover;
 }
 
+img {
+  max-width:65%;
+  max-height:65%;
+}
+
 .Nombre {
 	background-color: transparent;
 	text-align: center;
@@ -30,7 +35,7 @@ img#Perfil {
     margin: auto;
     width: 80%;
 	font-weight: bold;
-	font-size: 0.9em;
+	font-size: 0.8em;
 	padding: 5%;
 }
 
@@ -159,7 +164,7 @@ img#Perfil {
 	left: 25.1%;
 	top: 5%;
 	width: 65%;
-    height: 1000px;
+    height: 999px;
 	background-color: rgba(252, 251, 223, 1);
 	background-position: 25% 0%;
 	background-size: cover;
